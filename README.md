@@ -3,8 +3,6 @@
 
 [![Watch the video](https://cdn.discordapp.com/attachments/968867692809449533/968929797973635072/unknown.png)](https://cdn.discordapp.com/attachments/968956254338809980/970317384105730078/2022-05-01_15-33-37.mp4)
 
-<video src='https://cdn.discordapp.com/attachments/968956254338809980/970317384105730078/2022-05-01_15-33-37.mp4' width=180/>
-
 Direct link: https://cdn.discordapp.com/attachments/968956254338809980/970317384105730078/2022-05-01_15-33-37.mp4
 
 # Features:
